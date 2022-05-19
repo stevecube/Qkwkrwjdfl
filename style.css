@@ -1,0 +1,32 @@
+* {
+    text-align: center;
+}
+body {
+    background-color: #ffebcd;
+}
+label-1 {
+    background-color: #7fffd4;
+    width: 100%;
+}
+label-2 {
+    background-color: #000fff;
+    color: #ffffff;
+}
+label-container-1 label {
+    background-color: #c0bfff;
+    border: 1px solid #000000;
+}
+span {
+    color: #ffffff;
+    background-color: #ff0000;
+}
+p-1 {
+    color: #4747d4;
+    background-color: #ffff00;
+}
+p-2 {
+    font-weight: 400px;
+}
+td {
+    background-color: #f7b8b8;
+}
