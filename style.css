@@ -30,3 +30,6 @@ p-2 {
 td {
     background-color: #f7b8b8;
 }
+ul ul li {
+    text-align: left;
+}
